@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "name": "Fire",
+    "type": "DEBUFF"
+  },
+  {
+    "id": 1,
+    "name": "Poison",
+    "type": "DEBUFF"
+  },
+  {
+    "id": 2,
+    "name": "Stun",
+    "type": "DEBUFF"
+  },
+  {
+    "id": 3,
+    "name": "Bleed",
+    "type": "DEBUFF"
+  },
+  {
+    "id": 4,
+    "name": "Pure",
+    "type": "BUFF"
+  },
+  {
+    "id": 5,
+    "name": "Dodgy",
+    "type": "BUFF"
+  },
+  {
+    "id": 6,
+    "name": "Strong",
+    "type": "BUFF"
+  },
+  {
+    "id": 7,
+    "name": "Tough",
+    "type": "BUFF"
+  },
+  {
+    "id": 8,
+    "name": "Nullify",
+    "type": "HIDDEN"
+  }
+]

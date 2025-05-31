@@ -1,0 +1,10 @@
+Healthy: Increase everyones max HP by 1.
+Energetic: Increase everyones max SP by 1 but degrease everyones max HP by 1.
+Regeneration: Everyone gets healed 1 HP every 15 turns.
+Restoration: Everyone recieves 1 SP every 15 turns.
+Gift: After 3 turns, the team member with the least HP heals 3 HP.
+Money: Gain 2 coins.
+Anchor: When a team member dies, everyone heals 1 hp.
+Snowballing: When an enemy dies, a random team member recieves the strong buff.
+Last: The last standing member of your team heals 5 hp once.
+Bank: Gain 5 coins but everyone loses 1 max HP.

@@ -1,0 +1,13 @@
+Fire: Take 1 damage every turn. Debuff
+Poison: Take 1 damage every turn. Cannot kill on its own. Debuff
+Stun: Prevents you from using any moves. Debuff
+Bleed: You cannot heal by any means while possesing this effect. Debuff
+
+Pure: You cannot posses any debuffs. Buff
+Dodgy: You get a 25% chance to dodge an attack. Buff
+Tough: Take 1 less damage. Buff
+Strong: Deal 1 extra damage.
+
+Counter: The attacker tkaes the same amount of damage you took. Hidden
+Nullify: Take no damage. Hidden
+Protected: Instead of taking damage, transfer that damage to your teams Isaac. Hidden

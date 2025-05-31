@@ -1,0 +1,77 @@
+Default>
+basic attack: Deal 2 damage to a chosen enemy.
+Ability 1: Deal 3 damage to a chosen enemy. 1 SP
+Ability 2: Heal 3 hp to a chosen ally or yourself. 1 SP
+
+Leafy>
+basic attack: Deal 1 damage to a chosen enemy.
+Ability 1: Heal 2 hp and 1 SP to a chosen ally or yourself, also removes fire debuff. 2 SP
+Ability 2: Cover yourself, ignoring all damage you recieve for a turn. 1 SP
+Passive: Heal 1 hp every second turn.
+
+Doombringer>
+basic attack: Deal 2 damage to a chosen enemy.
+Ability 1: Deal 3 damage to a chosen enemy and apply stun for the next turn. 2 SP
+Ability 2: Taking any damage from the enemy return the same amount of damage to the enemy. Lasts for 1 turn. 1 SP
+Passive: Being the last alive on your team restores all your SP.
+
+Cyan>
+basic attack: Deal 1 damage to a chosen enemy and inflict bleed for 1 turn.
+Ability 1: Deal 1 damage to all enemies and every enemy has a 50% chance to also get bleed for 1 turn. 1 SP
+Ability 2: Apply the dodgy buff to yourself for 3 turns. 2 SP
+Passive: Always have a 25% chance to dodge an attack.
+
+Jane Doe>
+basic attack: Deal 1 damage to a chosen enemy.
+Ability 1: Heal 5 hp to a chosen ally or yourself. 2 SP
+Ability 2: Relax and receive 1 SP.
+
+Onyx>
+Basic attack: Deal 1 damage to a chosen enemy.
+Ability 1: Apply the fire debuff to a chosen enemy for 3 turns. 1 SP
+Ability 2: For every enemy that is on fire, heal your whole team by 1 hp. 1 SP
+
+Viper>
+Basic attack: Apply poison to a chosen enemy for 1 turn.
+Ability 1: Deal 1 damage and apply poison to a chosen enemy for 2 turns. 1 SP
+Ability 2: For every enemy that has the poison debuff, deal 1 damage to a chosen enemy. 2 SP
+Passive: Being the last alive on your team makes the poison debuff be able to kill.
+
+007n7>
+Basic attack: Deal 1 damage that ignores the dodgy buff.
+Ability 1: Deal 1 damage to the whole enemy team. 1 SP
+Ability 2: Heal 1 hp to everyone on your team. 1 SP
+
+Tasque>
+Basic attack: Deal 1 damage that ignores the dodgy buff.
+Ability 1: Apply a random debuff to a chosen enemy for 2 turns. 1 SP
+Ability 2: Apply a random buff to a chosen ally or yourself for 2 turns. 1 SP
+Passive: Any incoming damage targeted on you, is dealt to someone else on your team.
+
+Isaac>
+Basic attack: Deal 2 damage to a chosen enemy.
+Ability 1: Apply the tough buff to yourself for 2 turns. 1 SP
+Ability 2: Protect an ally, any damage they take will be transferred to you instead for the next turn. 1 SP
+
+John Doe>
+Basic attack: Deal 1 damage to a chosen enemy.
+Ability 1: Deal 1 damage to everyone, including yourself, enemy team and your team. 1 SP
+Ability 2: Deal 4 damage to a chosen enemy. 1 SP
+Passive: You cant be stunned. Getting stunned removes the debuff and give the strong buff for the next turn.
+
+Flutter:
+Basic attack: Deal 1 damage to a chosen enemy, ignoring counters.
+Ability 1: Apply the dodgy buff to an ally or yourself for 2 turns. 1 SP
+Ability 2: Prevent all incoming damage onto your team for the next turn. 4 SP
+
+Chance>
+Basic attack: Deal a random amount of damage ranging from 0 to 3 to a random enemy.
+Ability 1: Roll a random number from -2 to 4 and heal that amount of hp. 1 SP
+Ability 2: Deal either 5 damage to a random enemy or lose 3 hp. 1 SP
+Passive: Start with a random number of max HP ranging from 10 to 20 and random max SP ranging from 2 to 7.
+
+Team Combos>
+[Hackers] Tasque and 007n7: Every tenth turn, every enemy recieves a random debuff for 1 turn.
+[Tanks] Isaac and Doombringer: Every tenth turn, every ally gets the tough buff for the next turn.
+[Alive] Flutter and Leafy: Every tenth turn, everybody on the team heals 1 hp.
+[Weirdos] Default and Chance: Every tenth turn, theres a 25% chance for every ally to receive 1 SP and the strong buff for the next turn.

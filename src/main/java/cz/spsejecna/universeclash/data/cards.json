@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "Healthy",
+    "description": "Increase everyones max HP by 1"
+  },
+  {
+    "id": 1,
+    "name": "Energetic",
+    "description": "Increase everyones max SP by 1 but degrease everyones max HP by 1"
+  },
+  {
+    "id": 2,
+    "name": "Regeneration",
+    "description": "Everyone gets healed 1 HP every 15 turns"
+  },
+  {
+    "id": 3,
+    "name": "Restoration",
+    "description": "Everyone recieves 1 SP every 15 turns"
+  },
+  {
+    "id": 4,
+    "name": "Gift",
+    "description": "After 3 turns, everyone heals 3 HP"
+  },
+  {
+    "id": 5,
+    "name": "Money",
+    "description": "Gain 2 coins"
+  },
+  {
+    "id": 6,
+    "name": "Anchor",
+    "description": "When a team member dies, everyone heals 1 hp"
+  },
+  {
+    "id": 7,
+    "name": "Snowballing",
+    "description": "When an enemy dies, a random team member recieves the strong buff"
+  },
+  {
+    "id": 8,
+    "name": "Last",
+    "description": "The last standing member of your team heals 5 hp once"
+  },
+  {
+    "id": 9,
+    "name": "Bank",
+    "description": "Gain 5 coins but everyone loses 1 max HP"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "type": "POTION",
+    "name": "HP potion",
+    "description": "Increases everyones HP by 10. Ignores bleed debuff"
+  },
+  {
+    "id": 1,
+    "type": "POTION",
+    "name": "SP potion",
+    "description": "Increases everyones SP by 3"
+  },
+  {
+    "id": 2,
+    "type": "DEBUFFER",
+    "name": "Chilly",
+    "description": "Sets all enemies on fire for 3 turns"
+  },
+  {
+    "id": 3,
+    "type": "DEBUFFER",
+    "name": "Venom Sample",
+    "description": "Sets all enemies on poison for 3 turns"
+  },
+  {
+    "id": 4,
+    "type": "GRENADE",
+    "name": "Grenade",
+    "description": "Deals 3 damage to all enemies. Ignores tough buffs"
+  },
+  {
+    "id": 5,
+    "type": "GRENADE",
+    "name": "FlashBang",
+    "description": "Stun all enemies for 1 turn"
+  },
+  {
+    "id": 6,
+    "type": "MISC",
+    "name": "Dice",
+    "description": "Each enemy takes a random amount of damage from 1 to 5"
+  },
+  {
+    "id": 7,
+    "type": "MISC",
+    "name": "Pure Fragment",
+    "description": "Your whole team gets the pure buff for 2 turns"
+  }
+]
