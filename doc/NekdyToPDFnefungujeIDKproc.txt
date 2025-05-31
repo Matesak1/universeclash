@@ -1,0 +1,16 @@
+Universal Clash
+IT school final project
+Matěj Švarc
+---------------------------------------------------------------------------
+
+Cílem projektu je vytvoření hry. Tato hra byla vytvořena v javě a hraje se v konzoli. Nachazí se tam dva týmy které proti sobě bojují, postavy, karty vylepšení a předměty společně s obchodem.
+V programu hraješ za každou postavu ve svěm týmu.  Každý kolo vzbereš co chceš aby postava dělala, útok nebo použít schopnosti. Po boji se vybíra nová postava, nebo pokud je tým plný (4 postavy) tak si místo toho vybereš kartu vylepšení. Pokud máš dostatek mincí tak po boji také vstoupíš do obchodu kde si můžeš za mince koupit předměty. Předměty můžeš použít na začátku kola při boji. Screenshoty se nachází v souboru screenshots.
+Program používán je Intellij Idea 2023.2.2.
+Hlavní datové struktury v programu jsou:
+-Character: Základní třída pro postavy s atributy jako HP, SP, jméno, ID a seznam aktivních efektů. Zmínit použití vnořené třídy CharacterBuilder pro snadnou tvorbu instancí.
+-Ability: Třída pro reprezentaci schopností, pravděpodobně s názvem a popisem.
+-Effect: Třída pro efekty (např. "Bleed", "Strong") s atributy jako jméno, ID, typ a zbývající počet kol než efekt zmizí.
+-Card: Třída pro karty vylepšení s atributy jako jméno, ID a popis.
+Doporučuji otestovat věco co se týče efektů. Většinou s nimi byli problémy. Nejlepší postavy na otestování efektů jsou Tasque, Onyx a Viper protože jejich hlavní role je okolo efektů.
+Uživatel píše své rozhodnutí do konzole. Zadává se buď číslo jako ID postavy, předmětu nebo schopnosti, nebo se zadává jméno postavy na kterou se útočí.
+Problémy byli furt, a vůbec se mi nelíbí že jsem musel použít hodně internetu. Nerad dělám věci které neumím a hodně přemýšlím zdali bůbec chci umět IT, protože zatím všichni říkají že IT lidi si stejně všechno taky vyhledávají na internetu, takže nevím.
