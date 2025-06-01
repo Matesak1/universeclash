@@ -1,8 +1,5 @@
 package cz.spsejecna.universeclash.cards;
 
-import cz.spsejecna.universeclash.effects.Effect;
-import cz.spsejecna.universeclash.effects.EffectRepository;
-import cz.spsejecna.universeclash.effects.EffectTypeEnum;
 import org.junit.Test;
 
 import static junit.framework.Assert.assertEquals;
