@@ -1,7 +1,6 @@
 package cz.spsejecna.universeclash.items;
 
 import cz.spsejecna.universeclash.PathFinder;
-import cz.spsejecna.universeclash.effects.Effect;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
